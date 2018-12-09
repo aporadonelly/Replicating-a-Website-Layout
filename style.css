@@ -175,7 +175,6 @@
 		color:tomato;
 	}
 
-
 	.section-b {
 			/*background: url('https://images.pexels.com/photos/213117/pexels-photo-213117.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940')no-repeat center center fixed;
 			-webkit-background-size: cover;
@@ -488,11 +487,11 @@ hr {
 h2.title {
 	text-transform: uppercase;
 	text-align: left;
-	margin-top:10px;
+	margin-top:30px;
 }
 
 .title_desc {
-	margin-top: 10px;
+	margin-top: 5px;
 }
 
 .imageForPosts {
